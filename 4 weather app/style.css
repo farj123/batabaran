@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Belanosima&family=Lobster&family=New+Tegomin&family=Roboto&family=Source+Code+Pro&family=Tilt+Prism&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Belanosima&family=Lobster&family=New+Tegomin&family=Roboto&family=Source+Code+Pro&family=Tilt+Prism&family=Ysabeau+Office&display=swap');
+
+.font{
+    font-family: 'Belanosima', sans-serif;
+}
+
+.font2{
+    font-family: 'Ysabeau Office', sans-serif;
+}
